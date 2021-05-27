@@ -1,0 +1,24 @@
+{
+  "name": "codebox-text-2.0",
+  "version": "2.0.0",
+  "description": "CodeBox Text Editor",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCave-Tools/CodeBox-Text-2.0.git"
+  },
+
+  "scripts": {
+    "start": "electron ."
+  },
+
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeCave-Tools/CodeBox-Text-2.0/issues"
+  },
+  "homepage": "https://github.com/CodeCave-Tools/CodeBox-Text-2.0#readme",
+  "devDependencies": {
+    "electron": "^13.0.1"
+  }
+}
